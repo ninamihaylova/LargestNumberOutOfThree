@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\LargestNumberOutOfThree\LargestNumberOutOfThree\bin\Debug\net8.0\LargestNumberOutOfThree.exe
+C:\Users\ninag\RiderProjects\LargestNumberOutOfThree\LargestNumberOutOfThree\bin\Debug\net8.0\LargestNumberOutOfThree.deps.json
+C:\Users\ninag\RiderProjects\LargestNumberOutOfThree\LargestNumberOutOfThree\bin\Debug\net8.0\LargestNumberOutOfThree.runtimeconfig.json
+C:\Users\ninag\RiderProjects\LargestNumberOutOfThree\LargestNumberOutOfThree\bin\Debug\net8.0\LargestNumberOutOfThree.dll
+C:\Users\ninag\RiderProjects\LargestNumberOutOfThree\LargestNumberOutOfThree\bin\Debug\net8.0\LargestNumberOutOfThree.pdb
+C:\Users\ninag\RiderProjects\LargestNumberOutOfThree\LargestNumberOutOfThree\obj\Debug\net8.0\LargestNumberOutOfThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\LargestNumberOutOfThree\LargestNumberOutOfThree\obj\Debug\net8.0\LargestNumberOutOfThree.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\LargestNumberOutOfThree\LargestNumberOutOfThree\obj\Debug\net8.0\LargestNumberOutOfThree.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\LargestNumberOutOfThree\LargestNumberOutOfThree\obj\Debug\net8.0\LargestNumberOutOfThree.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\LargestNumberOutOfThree\LargestNumberOutOfThree\obj\Debug\net8.0\LargestNumberOutOfThree.dll
+C:\Users\ninag\RiderProjects\LargestNumberOutOfThree\LargestNumberOutOfThree\obj\Debug\net8.0\refint\LargestNumberOutOfThree.dll
+C:\Users\ninag\RiderProjects\LargestNumberOutOfThree\LargestNumberOutOfThree\obj\Debug\net8.0\LargestNumberOutOfThree.pdb
+C:\Users\ninag\RiderProjects\LargestNumberOutOfThree\LargestNumberOutOfThree\obj\Debug\net8.0\LargestNumberOutOfThree.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\LargestNumberOutOfThree\LargestNumberOutOfThree\obj\Debug\net8.0\ref\LargestNumberOutOfThree.dll
